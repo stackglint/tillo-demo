@@ -1,0 +1,9 @@
+node_modules
+.next
+out
+art
+*.png
+*.html
+shot*.js
+dbg*.js
+inline.py
